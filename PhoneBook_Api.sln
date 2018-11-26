@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook_Api", "PhoneBook_Api\PhoneBook_Api.csproj", "{03965423-CB43-45BF-A56B-A1A8FA1A0344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db", "Db\Db.csproj", "{3EEE0DEA-C08B-4400-8438-8EE3BFEC52D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03965423-CB43-45BF-A56B-A1A8FA1A0344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03965423-CB43-45BF-A56B-A1A8FA1A0344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03965423-CB43-45BF-A56B-A1A8FA1A0344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03965423-CB43-45BF-A56B-A1A8FA1A0344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEE0DEA-C08B-4400-8438-8EE3BFEC52D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEE0DEA-C08B-4400-8438-8EE3BFEC52D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEE0DEA-C08B-4400-8438-8EE3BFEC52D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEE0DEA-C08B-4400-8438-8EE3BFEC52D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C5253F4-F6AA-4ED8-8B39-CB6EC3F806ED}
+	EndGlobalSection
+EndGlobal

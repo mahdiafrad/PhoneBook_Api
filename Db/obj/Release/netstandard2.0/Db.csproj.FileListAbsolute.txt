@@ -1,0 +1,9 @@
+C:\Hasin\Projects\PhoneBook_Api\Db\bin\Release\netstandard2.0\Db.deps.json
+C:\Hasin\Projects\PhoneBook_Api\Db\bin\Release\netstandard2.0\Db.dll
+C:\Hasin\Projects\PhoneBook_Api\Db\bin\Release\netstandard2.0\Db.pdb
+C:\Hasin\Projects\PhoneBook_Api\Db\obj\Release\netstandard2.0\Db.csprojAssemblyReference.cache
+C:\Hasin\Projects\PhoneBook_Api\Db\obj\Release\netstandard2.0\Db.csproj.CoreCompileInputs.cache
+C:\Hasin\Projects\PhoneBook_Api\Db\obj\Release\netstandard2.0\Db.AssemblyInfoInputs.cache
+C:\Hasin\Projects\PhoneBook_Api\Db\obj\Release\netstandard2.0\Db.AssemblyInfo.cs
+C:\Hasin\Projects\PhoneBook_Api\Db\obj\Release\netstandard2.0\Db.dll
+C:\Hasin\Projects\PhoneBook_Api\Db\obj\Release\netstandard2.0\Db.pdb

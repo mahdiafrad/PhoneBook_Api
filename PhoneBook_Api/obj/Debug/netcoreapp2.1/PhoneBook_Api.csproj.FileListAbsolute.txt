@@ -1,0 +1,17 @@
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Debug\netcoreapp2.1\PhoneBook_Api.deps.json
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Debug\netcoreapp2.1\PhoneBook_Api.runtimeconfig.json
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Debug\netcoreapp2.1\PhoneBook_Api.runtimeconfig.dev.json
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Debug\netcoreapp2.1\PhoneBook_Api.dll
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.csprojAssemblyReference.cache
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.csproj.CoreCompileInputs.cache
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.RazorAssemblyInfo.cache
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.RazorAssemblyInfo.cs
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.AssemblyInfoInputs.cache
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.AssemblyInfo.cs
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.RazorTargetAssemblyInfo.cache
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Debug\netcoreapp2.1\PhoneBook_Api.pdb
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.dll
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.pdb
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Debug\netcoreapp2.1\Db.dll
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Debug\netcoreapp2.1\Db.pdb
+C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\obj\Debug\netcoreapp2.1\PhoneBook_Api.csproj.CopyComplete
