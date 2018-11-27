@@ -35,8 +35,16 @@ namespace PhoneBook_Api.Controllers
 
 		// PUT api/values/5
 		[HttpPut("{id}")]
-		public void Put(int id, [FromBody] string value)
+		public void Put(int id, [FromBody] PhoneBookEntity[] values)
 		{
+			using (var context = new PhoneBookContext())
+			{
+				foreach (var item in values)
+				{
+					context.PhoneBookEntities.Add(item);
+				}
+				context.SaveChanges();
+			}
 		}
 
 		// DELETE api/values/5
