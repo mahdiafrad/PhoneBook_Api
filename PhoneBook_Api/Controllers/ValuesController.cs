@@ -29,20 +29,26 @@ namespace PhoneBook_Api.Controllers
 
 		// POST api/values
 		[HttpPost]
-		public void Post([FromBody] string value)
+		public void Post([FromBody] PhoneBookEntity value)
 		{
+			using (var context = new PhoneBookContext())
+			{
+				context.PhoneBookEntities.Add(value);
+				context.SaveChanges();
+			}
 		}
 
 		// PUT api/values/5
 		[HttpPut("{id}")]
-		public void Put(int id, [FromBody] PhoneBookEntity[] values)
+		public void Put(int id, [FromBody] PhoneBookEntity value)
 		{
 			using (var context = new PhoneBookContext())
 			{
-				foreach (var item in values)
-				{
-					context.PhoneBookEntities.Add(item);
-				}
+				var a = context.PhoneBookEntities.Where(x => x.Id == id);
+				if (a != null)
+					context.PhoneBookEntities.Update(value);
+				else
+					context.PhoneBookEntities.Add(value);
 				context.SaveChanges();
 			}
 		}
