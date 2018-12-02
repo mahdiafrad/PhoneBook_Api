@@ -1,4 +1,5 @@
 ﻿using Db;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,10 +8,12 @@ namespace PhoneBook_Api.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
+	[EnableCors("AllowSpecificOrigin")]
 	public class ValuesController : ControllerBase
 	{
 		// GET api/values
 		[HttpGet]
+		//[EnableCors(origins: "*", headers: "*", methods: "*")]
 		public ActionResult<IEnumerable<PhoneBookEntity>> Get()
 		{
 			var context = new PhoneBookContext();

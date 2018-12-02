@@ -1,5 +1,3 @@
-C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
-C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
 C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Release\netcoreapp2.1\win-x64\PhoneBook_Api.exe
 C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Release\netcoreapp2.1\win-x64\PhoneBook_Api.deps.json
 C:\Hasin\Projects\PhoneBook_Api\PhoneBook_Api\bin\Release\netcoreapp2.1\win-x64\PhoneBook_Api.runtimeconfig.json
